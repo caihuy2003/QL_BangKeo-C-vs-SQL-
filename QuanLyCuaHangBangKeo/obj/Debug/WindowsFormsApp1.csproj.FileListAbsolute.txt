@@ -1,0 +1,13 @@
+D:\LapTrinhCSDL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\LapTrinhCSDL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\LapTrinhCSDL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangNhap.resources
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TrangChu.resources
+D:\LapTrinhCSDL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FBanHang.resources
